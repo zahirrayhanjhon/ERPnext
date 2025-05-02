@@ -46,7 +46,9 @@ This script installs the **latest stable version of ERPNext (v15)** with all dep
 
 Paste and run this command in your terminal:
 
-```bashcurl -s https://raw.githubusercontent.com/zahirrayhanjhon/ERPnext/main/erp.sh | sudo bash
+```
+curl -s https://raw.githubusercontent.com/zahirrayhanjhon/ERPnext/main/erp.sh | sudo bash
+
 ````
 
 This will:
